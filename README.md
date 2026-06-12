@@ -99,6 +99,11 @@ Los resultados fueron medidos para el mejor modelo en toda la historia de las é
 ### 1000 autores
 ![Matriz de confusión 1000 autores](resources/confussion1000matrix.PNG)
 
+## Estado del Arte
+### Tabla comparativa
+![Matriz de confusión 1000 autores](resources/tabla_arte.PNG)
+
+
 ## Conclusiones
 Aunque el modelo mantiene un desempeño elevado para los conjuntos de 10, 50 y 100 autores, se observa una disminución significativa al trabajar con los mil autores del conjunto completo. De todos los ejemplos que realmente pertenecían a una clase, el modelo identificó correctamente el 67%. Cuando el modelo predice una clase, el 95% de esas predicciones suelen ser correctas. 
 
